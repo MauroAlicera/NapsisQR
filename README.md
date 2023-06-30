@@ -6,7 +6,8 @@ El proyecto consiste en desarrollar una aplicación móvil que permite escanear 
 
 
 ## Detalles del código
-
+Las vistas o  front end de la applicacion se encuentra : <a routerlink=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/res/layout>
+El Back end de la applicacion se encuentra :<a routerlink=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/java/com/example/napsisqr>
 
 
 
@@ -18,7 +19,7 @@ En esta sección estarán listadas las tecnologias
 -[AndroidStudio]
 
 ## Programadores
-1.Mauro Alicera 
-2.Felipe Andariza
-3.Jorge González 
+1. Mauro Alicer
+2. Felipe Andariza
+3. Jorge González 
 
