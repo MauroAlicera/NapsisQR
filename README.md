@@ -6,17 +6,18 @@ El proyecto consiste en desarrollar una aplicación móvil que permite escanear 
 
 
 ## Detalles del código
-Las vistas o  front end de la applicacion se encuentra : <a href=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/res/layout>
-El Back end de la applicacion se encuentra :<a href=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/java/com/example/napsisqr>
+ <li>Las vistas o  front end de la applicacion se encuentra : <a href=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/res/layout></li>
+   
+<li>El Back end de la applicacion se encuentra :<a href=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/java/com/example/napsisqr></li>
 
 
 
 
 ## Tecnologias
 En esta sección estarán listadas las tecnologias
--[Kotlin](https://github.com/JetBrains/kotlin)
--[Firebase](https://github.com/firebase/)
--[AndroidStudio](https://github.com/topics/android-studio)
+- [Kotlin](https://github.com/JetBrains/kotlin)
+- [Firebase](https://github.com/firebase/)
+- [AndroidStudio](https://github.com/topics/android-studio)
 
 ## Programadores
 1. Mauro Alicer
