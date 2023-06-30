@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460594187772",
+    "project_id": "napsisqr-91c7c",
+    "storage_bucket": "napsisqr-91c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460594187772:android:ffb02745dedbdee040b679",
+        "android_client_info": {
+          "package_name": "com.example.napsisqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460594187772-tl5i3ji1pfn45v3v6m19o140aj9gq64p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgYmnG3IGR0XeDQyantoZhH5Kt8_giI2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460594187772-tl5i3ji1pfn45v3v6m19o140aj9gq64p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

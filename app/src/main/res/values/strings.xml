@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NapsisQR</string>
+    <string name="strCrear_Cuenta"><u>Crear Cuenta</u></string>
+    <string name="strOlvidar"><u>Olvide mi contraseña</u></string>
+</resources>
