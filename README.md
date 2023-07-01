@@ -6,9 +6,9 @@ El proyecto consiste en desarrollar una aplicación móvil que permite escanear 
 
 
 ## Detalles del código
- <li>Las vistas o  front end de la applicacion se encuentra : <a href=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/res/layout></li>
+ <li>Las vistas o  front end de la applicacion se encuentra : <a href=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/res/layout></a>,</li>
    
-<li>El Back end de la applicacion se encuentra :<a href=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/java/com/example/napsisqr></li>
+<li>El Back end de la applicacion se encuentra :<a href=https://github.com/MauroAlicera/NapsisQR/tree/master/app/src/main/java/com/example/napsisqr></a>,</li>
 
 
 
